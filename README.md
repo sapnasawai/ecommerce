@@ -1,5 +1,5 @@
 
-# [Everytime Mart]
+## Everytime Mart
 
 An E-Commerce Website for Branded Wrist Watches.
 
