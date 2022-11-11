@@ -1,0 +1,31 @@
+.log-in-wrapper,
+.sign-up-wrapper{
+    position: relative;
+    top: 15vh;
+    height: auto;
+}
+.auth-page{
+    height: 100vh;
+}
+.form-container{
+    width: 40rem;
+    height: 40rem;
+    gap: var(--scale-sm);
+}
+
+.form-title{
+    align-self: center;
+}
+.forget-password{
+  gap: var(--scale-sm);
+  align-items: center;
+}
+.error-msg{
+    color: var(--danger-color);
+    margin: auto;
+}
+@media only screen and (max-width:480px){
+    .form-container{
+        box-shadow: none;
+    }
+}

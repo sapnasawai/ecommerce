@@ -1,0 +1,24 @@
+.wishlist-wrapper{
+    position: absolute;
+    top: 9vh;
+    padding: var(--scale-xl);
+    width: 95vw;
+    overflow-x: hidden;
+    margin: auto;
+}
+.wishlist-cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--scale-xl)
+}
+@media only screen and (max-width:580px){
+    .wishlist-wrapper{
+        top: 12vh;
+        margin: 0;
+        width: 85vw;
+        margin-top: var(--scale-sm);
+    }
+    .wishlist-cards{
+        justify-content: center;
+    }
+}
