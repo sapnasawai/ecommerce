@@ -1,5 +1,5 @@
 
-# [Maaza Mart](https://maaza-mart-e-commerce.netlify.app/)
+# [Everytime Mart](https://maaza-mart-e-commerce.netlify.app/)
 
 An E-Commerce Website for Branded Wrist Watches.
 
@@ -37,8 +37,5 @@ An E-Commerce Website for Branded Wrist Watches.
 - Axios
 - Localstorage
 - Frontend authentication(with JWT)
-## Demo
 
-
-![Untitled_ Apr 07,2022 4_26 PM](https://user-images.githubusercontent.com/88648908/162185386-07a2005f-fb45-461e-aa4d-ecb693ab7b30.gif)
 
