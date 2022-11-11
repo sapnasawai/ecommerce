@@ -1,5 +1,5 @@
 
-# [Everytime Mart](https://maaza-mart-e-commerce.netlify.app/)
+# [Everytime Mart]
 
 An E-Commerce Website for Branded Wrist Watches.
 
